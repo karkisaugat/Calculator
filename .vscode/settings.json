@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "lengthconverter.h": "c",
+    "stdio.h": "c",
+    "homepage.h": "c",
+    "calculatorart.h": "c"
+  }
+}
